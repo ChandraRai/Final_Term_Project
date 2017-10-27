@@ -37,7 +37,7 @@
                             <li class="nav-link" runat="server"><a href="Memberpage.aspx">Members</a></li>
                             <li class="nav-link" runat="server"><a href="Narayan.aspx">Deals</a></li>
                             <li class="nav-link" runat="server"><a href="Bishnu.aspx">Review</a></li>
-                            <li class="nav-link" runat="server"><a href="Addmember.aspx">Sign In</a></li>
+                            <li class="nav-link" runat="server"><a href="Login.aspx">Sign In</a></li>
                             <li class="nav-link" runat="server"><a href="balkrishna.aspx">Contact Us</a></li>
                             <li runat="server">
                                 <asp:LinkButton ID="mainLinkButton" runat="server" OnClick="Switch_Navigation_back"><i id="mainbar" class="fa fa-bars fa-lg" aria-hidden="true"></i></asp:LinkButton></li>
